@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 vector<int> arr;
-int a[100], n, i, j, m, gr = 0;
+int a[100], n, i, j, m;
 int flag=0;
 
 cout<<"Enter the no of elements: ";
